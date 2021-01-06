@@ -3,6 +3,9 @@ Omobio Trainee Fullstack Developer Practical Test
 
 ## Get started
 
+![Screenshot](Screenshot_1.png)
+![Screenshot](Screenshot_2.png)
+
 
 Keep your code in below format when pushing it to your GitHub account.
 ```
